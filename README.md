@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **some university's projects related to data driven finance, bayesian stats and computer vision**
 
-- 🌱 I’m currently learning **Pytorch and Rust**
+- 🌱 I’m currently learning **Tensorflow**
 
 - 📫 You can reach me at **valdoriccardo@gmail.com**
 
